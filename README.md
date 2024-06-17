@@ -18,7 +18,7 @@ The eleventh challenge assignment from a bootcamp where the task was to build th
 -[Acknowledgement](#Acknowledgement)
 -[Questions](#Questions)
 
-<img src="./assets/img.png"/>
+<img src="./assets/img1.png"/>
 <img src="./assets/img2.png"/>
 <img src="./assets/img3.png"/>
 <img src="./assets/img4.png"/>
