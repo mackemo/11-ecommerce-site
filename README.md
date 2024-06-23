@@ -30,7 +30,7 @@ The process included importing an instance of sequlize into the server.js file a
 
 
 ## Links
-Link to deployed site: https://drive.google.com/file/d/13UVQjVMGu9k3k1hvGJfX8_18R_3cMDSi/view
+Link to walkthrough: https://drive.google.com/file/d/1iAVGIvV1pktKN8_vcN25-r3CKHmlQeI8/view
 
 ## Installation
 To install this application, copy the ssh key from my github repo and clone it into your respository. Do an npm install. Run the schema file as well as the command 'npm run seed' to seed the database. Then, 'npm start', to start the server.
